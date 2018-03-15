@@ -39,7 +39,7 @@
 
 ***
 ## Diagrama
-![diagrama](diagrama.jpg)
+![diagrama](diagrama.JPG)
 ***
 ## Evidencias
 ![pic1](pic1.jpg)
